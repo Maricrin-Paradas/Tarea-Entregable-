@@ -1,0 +1,17 @@
+{
+  "name": "tareaenclase",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maricrin Paradas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
